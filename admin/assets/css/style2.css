@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #reportContainer {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
